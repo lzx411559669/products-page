@@ -17,7 +17,7 @@ function resolve(dir: string) {
 // https://vitejs.dev/config/
 // https://github.com/vitejs/vite/issues/1930 .env
 export default defineConfig({
-  base: 'https://lzx411559669.gitee.io/products/',
+  base: 'https://duhangtao.gitee.io/products/',
   plugins: [
     vue(),
     // Components({
