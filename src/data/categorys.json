@@ -1,0 +1,33 @@
+[
+
+  {
+    "id": "平面",
+    "categoryName": "平面",
+    "icon": "平面.svg"
+  },
+  {
+    "id": "弧面",
+    "categoryName": "弧面",
+    "icon": "弧面.svg"
+  },
+  {
+    "id": "斜面",
+    "categoryName": "斜面",
+    "icon": "斜面.svg"
+  },
+  {
+    "id": "梯形",
+    "categoryName": "梯形",
+    "icon": "梯形.svg"
+  },
+  {
+    "id": "凹面",
+    "categoryName": "凹面",
+    "icon": "凹面.svg"
+  },
+  {
+    "id": "异形",
+    "categoryName": "异形",
+    "icon": "异形.svg"
+  }
+]
